@@ -51,36 +51,3 @@
 
 
 
-<br>
-<img height="27" src="https://github.com/sid1hant/sid1hant/blob/master/images/Spotify%20Playing%20-%20%F0%9F%8E%A7-yellow.svg" />
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ)
-
-<br>
-
-<h4 align="center">Show ❤️ By Starring My <a href='https://github.com/sid1hant'><img align='center'  height="22" src="https://github.com/sid1hant/sid1hant/blob/master/images/Repos!%F0%9F%98%8A-purple.svg" /></a></h4>
-
-<br>
-
-
-```python3
-while(!(succeed=try()); )
-```
-<br>
- <h4 align="center">Hey,Wait! 👋 don't foget to check out my social media handles 😎<img align="center" src="https://github.com/sid1hant/sid1hant/blob/master/images/Handshake.gif" height="30px"></h4> <br>
-
-<a href="https://www.linkedin.com/in/siddhant-singh-a410b1b3/">
-  <img align="left" src="https://github.com/sid1hant/sid1hant/blob/master/images/Linkedin%20(1).svg" alt="kushal's linkedin" width="24px" />
-</a>  
- 
-
-
-<br><br><br>
-
-<details>
-  <summary>:zap: Tab here :P :gift:</summary>
-<p align="center"><img src="https://github.com/sid1hant/sid1hant/blob/master/images/tenor.gif" width="50"></p> 
-  <img align="right" src="https://github.com/sid1hant/sid1hant/blob/master/images/89112043-60fe4d80-d412-11ea-920f-aa722997007a.gif" alt="Coder GIF" width="150" height="100">
-</details>  
-<img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/sid1hant/sid1hant/blob/master/images/marquee.svg"/> 
-
