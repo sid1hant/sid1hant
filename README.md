@@ -29,7 +29,7 @@
 - 🌱 I’m currently learning **Data Science & Machine learning🤩**
  
 
-- <details> <summary> 📫 Reach me at :information_desk_person: </summary><a href="mailto:siddhant99singh@gmail.com"> <img src="https://github.com/sid1hant/sid1hant/blob/master/images/gmail.png" width="22px"/> </a><a href="https://wa.me/918218707132" target="blank"><img align="center" src="https://github.com/sid1hant/sid1hant/blob/master/images/5ae21cc526c97415d3213554.png" width="40x" /></a>
+- <details> <summary> 📫 Reach me at :information_desk_person: </summary><a href="mailto:siddhant99singh@gmail.com"> <img src="https://github.com/sid1hant/sid1hant/blob/master/images/gmail.png" width="22px"/> </a><a href="https://wa.me/8218707132" target="blank"><img align="center" src="https://github.com/sid1hant/sid1hant/blob/master/images/5ae21cc526c97415d3213554.png" width="40x" /></a>
 </details>
 
 
