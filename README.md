@@ -1,4 +1,4 @@
-<img align="left" height="180px" src="https://github.com/sid1hant/sid1hant/blob/main/images/Capture.png" alt="image" />
+<img align="left" height="180px" src="https://github.com/sid1hant/sid1hant/blob/master/images/Capture.png" alt="image" />
 
 <img align="right" alt="GIF"  width="300px" src="https://github.com/sid1hant/sid1hant/images/giphy.webp" />
 
