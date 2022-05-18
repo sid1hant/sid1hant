@@ -21,7 +21,7 @@
  -->
 ## About me:<img src="https://github.com/sid1hant/sid1hant/blob/master/images/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966.gif" width="30"> 
 
-- 🧑‍🎓 Currently Pursuing M.Tech in Data Science from  Defence Institute of Advanced Technology,Pune
+- 🧑‍🎓 Completed M.Tech in Data Science from  Defence Institute of Advanced Technology,Pune
  
 
 - 🔭 Feel free to check out my latest [Project](https://github.com/sid1hant/Reddit-Upvotes-Prediction)
