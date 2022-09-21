@@ -26,7 +26,7 @@
 
 - 🔭 Feel free to check out my latest [Project](https://github.com/sid1hant/Reddit-Upvotes-Prediction)
 
-- 🌱  My interests are with **Machine learning, Deep Learning, AIOPS🤩**
+- 🌱  My interests are with **Machine learning, Deep Learning, Big Data🤩**
  
 
 - <details> <summary> 📫 Reach me at :information_desk_person: </summary><a href="mailto:siddhant99singh@gmail.com"> <img src="https://github.com/sid1hant/sid1hant/blob/master/images/gmail.png" width="22px"/> </a><a href="https://wa.me/8218707132" target="blank"><img align="center" src="https://github.com/sid1hant/sid1hant/blob/master/images/5ae21cc526c97415d3213554.png" width="40x" /></a>
